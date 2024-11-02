@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/cheekydavyhttps://dashboard.heroku.com/new?template=https://github.com/cheekydavy/PRABATHMD"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/PRABATHMD"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
 
 <br>
 
