@@ -8,7 +8,7 @@
   "env": {
     "BOT_NUMBER": {
       "description": "Put the number here.",
-      "required": true
+      "required": false
     },  
 
     "SESSION_ID": {
